@@ -1,4 +1,4 @@
-# 🕵️ Diecast Stock Watcher
+# 🕵️ Stock Watcher
 
 A lightweight Python script to monitor product listings on diecast model websites and notify you when new items drop via Discord.
 
@@ -14,8 +14,8 @@ A lightweight Python script to monitor product listings on diecast model website
 1. **Clone this repo:**
 
 ```bash
-git clone https://github.com/yourusername/diecast-stock-watcher.git
-cd diecast-stock-watcher
+git clone https://github.com/iamprashant-shukla/Stockspy.git
+cd Stockspy
 ```
 2. **Install dependencies:**
 
